@@ -32,6 +32,8 @@ double divi(double a, double b)
     return divi_res;    
 }
 
+
+
 int gcd(int a, int b)
 {
     if(b == 0)
